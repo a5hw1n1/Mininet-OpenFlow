@@ -48,3 +48,5 @@ mininet> dump
   
 To check connectivity between all nodes:
 mininet> pingall
+
+We now have a mininet we can use to perform our experiments!
